@@ -1,6 +1,7 @@
 ### Hi there 👋
 
  • Intern at SSW Brisbane <br>
+ • Bachelor of IT from SCU graduating 2021 <br>
  • Angular expert (thanks to SSW's Angular Workshop https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop) <br>
  • Also experienced in Laravel and .NET <br>
  • Cricket tragic <br>
