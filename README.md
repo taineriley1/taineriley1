@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- • Intern at SSW Brisbane
+ • Intern at SSW Brisbane <hr>
  • Angular expert (thanks to SSW's Angular Workshop https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop)
  • Also experienced in Laravel and .NET
  • Cricket tragic
