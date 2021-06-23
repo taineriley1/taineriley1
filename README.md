@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ • Intern at SSW Brisbane
+ • Angular expert (thanks to SSW's Angular Workshop https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop)
+ • Also experienced in Laravel and .NET
+ • Cricket tragic
 <!--
 **taineriley1/taineriley1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
